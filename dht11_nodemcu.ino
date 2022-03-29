@@ -8,12 +8,12 @@
 DHT dht(DHTPIN, DHTTYPE); 
 
 // Dapatkan Auth Token dari email yang dikirimkan ke Blynk
-char auth[] = "X3KHAOicAcc99a4rv3NhLVMDMpfDGubd";
+char auth[] = "insert token blynk";
 
 // Masukkan nama Wifi dan Password
 // Jika WiFi bersifat Open Network, set password menjadi ""
-char ssid[] = "ZTEF660";
-char pass[] = "N1kolaus";
+char ssid[] = "insert wifi name";
+char pass[] = "insert wifi password";
 
 BlynkTimer timer;
 
